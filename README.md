@@ -147,4 +147,3 @@ Sorbonne Université — Master STL, 2024
 ## 📄 License
 
 Distributed under the BSD3 License. See [`LICENSE`](./LICENSE) for details.
-```
